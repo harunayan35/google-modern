@@ -1,3 +1,4 @@
+
 .header {
     list-style-type: none;
     margin: 10px;
@@ -10,7 +11,7 @@
   .headerli a {
     display: block;
     color: black;
-    text-align: center;
+    float: right;
     padding: 5px 5px;
     text-decoration: none;
   }
@@ -155,3 +156,6 @@
   .footerli a:hover {
     text-decoration: underline;
   }
+
+
+  
